@@ -1,5 +1,7 @@
 # WiDS-25 : AI-in-Healthcare
 
+> Author : Jennifer Esbel Mary(24B2176)
+
 Documenting my learning and work in the Winter in Data Science Project 2025 under AI in Healthcare.
 
 ## Week 1 : Fundamentals of Digital Image Processing
@@ -13,5 +15,5 @@ Documenting my learning and work in the Winter in Data Science Project 2025 unde
 ### Assignment : 
 - Write 5 interesting points you learned from the lectures
 - Do a brief research on types of healthcare reports and write about medical imaging reports
-> Find it [here](https://github.com/Jaynferrre/WiDS-25_AI-in-Healthcare/blob/368e46210f7be95ac9e003fa35234cab0f9a5f70/AI_in_Healthcare.pdf)
+> Find it [here](https://github.com/healthcare-ai-vision/2176_WiDS-25_AI-in-Healthcare/main/Week%201/Week%201%20Assignment.pdf)
 
